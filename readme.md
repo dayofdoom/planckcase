@@ -10,7 +10,7 @@ I cut my case using different widths of acrylic.
 
 If you're cutting this yourself or using Ponoko, make sure the width and heights of each of the layers match what's listed above.
 
-If you choose to use other widths of acrylic (or even the exact same) be aware you will need at least two open layers, if not three. I am using a very narrow USB-C cable and it barely squeaks by in the current config.
+If you choose to use other, thinner widths of acrylic (or even the exact same) be aware you will need at least two open layers, if not three. I am using a very narrow USB-C cable and it barely squeaks by in the current config.
 
 The holes accept M2 stand offs with M2 screws or M3 screws without stand offs.
 
