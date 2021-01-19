@@ -2,11 +2,11 @@ This is a sandwich style acrylic case generated with the swilkb plate/case gener
 
 I cut my case using different widths of acrylic.
 
-Layer_4 (158.6mm x 106.2mm)- (Top layer): 5mm
-Layer_3 (262.6mm x 110.2mm)- (Plate layer): 3mm
-Layer_2 (266.6mm x 114.2mm) - (Open Layer): 5mm
-Layer_1 (266.6mm x 114.2mm) - (Closed Layer): 5mm
-Layer_0 (266.6mm x 114.2mm) - (Bottom Layer): 5mm
+- Layer_4 (158.6mm x 106.2mm)- *(Top layer)*: 5mm
+- Layer_3 (262.6mm x 110.2mm)- *(Plate layer)*: 3mm
+- Layer_2 (266.6mm x 114.2mm) - *(Open Layer)*: 5mm
+- Layer_1 (266.6mm x 114.2mm) - *(Closed Layer)*: 5mm
+- Layer_0 (266.6mm x 114.2mm) - *(Bottom Layer)*: 5mm
 
 If you're cutting this yourself or using Ponoko, make sure the width and heights of each of the layers match what's listed above.
 
