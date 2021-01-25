@@ -1,3 +1,5 @@
+![Sample Image](sample.jpeg)
+
 This is a sandwich style acrylic case generated with the swilkb plate/case generator. I've modified it to have a stepped upper two layers - each layer recesses in two mm to give a nice stepped look. Addtionally, I modified the stabilizer cutout to make it easy to change or remove the stabilizer. 
 
 I cut my case using different widths of acrylic.
