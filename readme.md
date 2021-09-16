@@ -10,7 +10,7 @@ I cut my case using different widths of acrylic.
 - Layer_1 (266.6mm x 114.2mm) - *(Closed Layer)*: 5mm
 - Layer_0 (266.6mm x 114.2mm) - *(Bottom Layer)*: 5mm
 
-If you're cutting this yourself or using Ponoko, make sure the width and heights of each of the layers match what's listed above.
+If you're cutting this yourself or using Ponoko, make sure the width and heights of each of the layers match what's listed above. You can reduce the width of the bottom layer and closed layer for a lower height case.
 
 If you choose to use other, thinner widths of acrylic (or even the exact same) be aware you will need at least two open layers, if not three. I am using a very narrow USB-C cable and it barely squeaks by in the current config.
 
